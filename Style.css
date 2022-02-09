@@ -1,0 +1,25 @@
+body{
+    color: crimson;
+    background-color: rgb(0, 26, 255);
+
+}
+
+.heading{
+    width:80%;
+    font-size:22px;
+    border:12px double rgb(140, 223, 7);
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color:gold;
+
+
+}
+
+#camera{
+    border:12px dotted black;
+    width:350px;
+    height:300px;
+
+}
+
